@@ -1,0 +1,7 @@
+{
+  "train_rows": 123,
+  "test_rows": 31,
+  "MAE": 933.76,
+  "RMSE": 1095.54,
+  "warning": "Short, sparse transaction history; forecast is an educational baseline and should not be used alone for inventory or financial decisions."
+}
